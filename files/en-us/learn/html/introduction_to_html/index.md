@@ -1,8 +1,8 @@
----
+<h1>
 title: Introduction to HTML
 slug: Learn/HTML/Introduction_to_HTML
 page-type: learn-module
----
+</h1>
 
 {{LearnSidebar}}
 
